@@ -2,7 +2,7 @@
 
 Este projeto foi realizado como parte do **Curso de Ciência de Dados** da **Hashtag Treinamentos**. O objetivo principal é analisar o desempenho de vendas de um **hipermercado global** ao longo de **quatro anos** (2015 a 2018), identificando tendências, sazonalidade e os produtos e categorias de maior destaque, proporcionando uma visão executiva do negócio. 
 
-O **conjunto de dados utilizado** é o **Superstore Sales Dataset**
+O **conjunto de dados utilizado** é o **Superstore Sales Dataset**["https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting"]
 
 ## 📁 Estrutura do Projeto
 
